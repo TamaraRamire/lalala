@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/et12alumno/Escritorio/lalala/lalala/aprendiendoObjetos.csproj",
+      "projectUniqueName": "/home/et12alumno/Escritorio/lalal/lalala/aprendiendoObjetos.csproj",
       "projectName": "aprendiendoObjetos",
-      "projectPath": "/home/et12alumno/Escritorio/lalala/lalala/aprendiendoObjetos.csproj",
+      "projectPath": "/home/et12alumno/Escritorio/lalal/lalala/aprendiendoObjetos.csproj",
       "packagesPath": "/home/et12alumno/.nuget/packages/",
-      "outputPath": "/home/et12alumno/Escritorio/lalala/lalala/obj/",
+      "outputPath": "/home/et12alumno/Escritorio/lalal/lalala/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/et12alumno/.nuget/NuGet/NuGet.Config"
